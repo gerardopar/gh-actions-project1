@@ -19,4 +19,4 @@ jobs:
       - name: deploy
         run: npm run build
       - name: finish deploy
-        run: echo("Deployment complete...")
+        run: echo "Deployment complete..."
